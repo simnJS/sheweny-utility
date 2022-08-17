@@ -20,4 +20,16 @@ Soon...
 
 Initial release of sheweny utility
 
+### 1.0.2
+
+#### Added
+- Event Snippet
+- SelectMenu Snippet
+- Button Snippet
+- Inhibitor Snippet
+- Modal Snippet
+- SlashCommand Snippet
+- UserContectMenu Snippet
+- MessageContextMenu Snippet
+
 **Enjoy!**

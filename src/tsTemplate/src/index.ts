@@ -1,5 +1,4 @@
 import { ShewenyClient } from "sheweny";
-import config from "./config.json";
 
 const client = new ShewenyClient({
   intents: ["Guilds", "GuildMessages"],
@@ -28,4 +27,4 @@ const client = new ShewenyClient({
   mode : "development", // Change to production for production bot
 });
 
-client.login(config.DISCORD_TOKEN);
+client.login("you bot token");

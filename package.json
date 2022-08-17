@@ -15,6 +15,13 @@
   ],
   "main": "./out/extension.js",
   "contributes": {
+    "snippets": [
+      {
+        "language": "typescript",
+        "path": "./snippets/shewenySnippets.ts-snippets"
+      }
+    ],
+
     "commands": [
       {
         "command": "sheweny-utility.createtsbotfile",

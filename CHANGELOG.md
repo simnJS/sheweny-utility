@@ -1,9 +1,18 @@
 # Change Log
 
-All notable changes to the "us" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+Toutes les change log importants seron notés ici.
 
 ## [Unreleased]
 
 - Initial release
+
+## [1.0.1] - 2020-08-18
+### Added
+- Event Snippet
+- SelectMenu Snippet
+- Button Snippet
+- Inhibitor Snippet
+- Modal Snippet
+- SlashCommand Snippet
+- UserContectMenu Snippet
+- MessageContextMenu Snippet

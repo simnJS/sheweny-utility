@@ -6,7 +6,7 @@ Toutes les change log importants seron notés ici.
 
 - Initial release
 
-## [1.0.1] - 2020-08-18
+## [1.0.1] - 2022-08-18
 ### Added
 - Event Snippet
 - SelectMenu Snippet

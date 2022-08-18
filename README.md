@@ -1,7 +1,3 @@
-## sheweny utility README
-
-Ceci est le readme de l'extension sheweny utility.
-
 ## Features
 
 ### Templates

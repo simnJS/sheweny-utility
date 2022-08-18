@@ -16,7 +16,7 @@
 
 ## Requirements
 
-Aucun requirements
+Sheweny V4 ( npm i sheweny )
 
 ## Known Issues
 

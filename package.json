@@ -26,6 +26,10 @@
       {
         "language": "typescript",
         "path": "./snippets/shewenySnippets.ts-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/javascript.code-snippets"
       }
     ],
 

@@ -63,9 +63,6 @@ let createJsBotFile = vscode.commands.registerCommand('sheweny-utility.createjsb
 });
 
 
-
-
-
 	context.subscriptions.push(createTsBotFile);
 }
 

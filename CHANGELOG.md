@@ -27,3 +27,7 @@ Toutes les change log importants seron notés ici.
 - SlashCommand Snippet javascript
 - UserContectMenu Snippet javascript
 - MessageContextMenu Snippet javascript
+
+## [1.0.4] - 2022-08-21
+### Patch
+- Modal in Js template

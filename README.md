@@ -50,4 +50,9 @@ Initial release of sheweny utility
 - UserContectMenu Snippet javascript
 - MessageContextMenu Snippet javascript
 
+### 1.0.4
+
+#### Added
+- Modal in Js template
+
 **Enjoy!**

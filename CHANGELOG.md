@@ -31,3 +31,7 @@ Toutes les change log importants seron notés ici.
 ## [1.0.4] - 2022-08-21
 ### Patch
 - Modal in Js template
+
+## [1.0.5] - 2022-10-13
+### Patch
+- Patch modal snippets for javascript

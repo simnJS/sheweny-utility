@@ -5,7 +5,7 @@
   "description": "A lot of cool things to interact with sheweny framework.",
   "icon": "icon/logo.png",
   "license": "MIT",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "engines": {
     "vscode": "^1.70.0"
   },

@@ -164,7 +164,7 @@
 	  "body": [
 		"const { Modal } = require('discord.js')",
 		"",
-		"module.export = class ${1:className} extends Modal {",
+		"module.exports = class ${1:className} extends Modal {",
 		"  constructor(client) {",
 		"    super(client, [\"${2:modalId}\"]);",
 		"  }",
